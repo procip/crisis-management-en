@@ -1,0 +1,63 @@
+\documentclass[11pt]{book}
+
+\usepackage{hyperref}
+\usepackage{caption}
+\usepackage{graphicx}
+                
+\usepackage{calc}
+                
+\newlength{\imgwidth}
+                
+\newcommand\scaledgraphics[2]{%
+                
+\settowidth{\imgwidth}{\includegraphics{#1}}%
+                
+\setlength{\imgwidth}{\minof{\imgwidth}{#2\textwidth}}%
+                
+\includegraphics[width=\imgwidth,height=\textheight,keepaspectratio]{#1}%
+                
+}
+            
+\usepackage{tabu}
+\usepackage{docmute}
+\title{Crisis Management}
+\author{Heidrun Böhm; Detlef Cwojdzinski; Ulrike Grote; Kalle Heitkötter; Christine Knauer; Ingrid Möller; Guido Pukropski; Julia Sasse; Tanja Schmidt; Ute Siering; Karlin Stark; Katrin Steul; Peter Tinnemann. Editors: Ute Teichert; Peter Tinnemann.}
+\begin{document}
+\maketitle
+\def\title#1{\chapter{#1}}
+\tableofcontents
+
+        \input{chapter-1}
+        
+        \input{chapter-2}
+        
+        \input{chapter-3}
+        
+        \input{chapter-4}
+        
+        \input{chapter-5}
+        
+        \input{chapter-6}
+        
+        \input{chapter-7}
+        
+        \input{chapter-8}
+        
+        \input{chapter-9}
+        
+        \input{chapter-10}
+        
+        \input{chapter-11}
+        
+        \input{chapter-12}
+        
+        \input{chapter-13}
+        
+        \input{chapter-14}
+        
+        \input{chapter-15}
+        
+        \input{chapter-16}
+        
+
+\end{document}
