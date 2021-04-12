@@ -16,6 +16,10 @@
     <navPoint id="t_1_0-1">
       <navLabel><text>CRI000: Front Matter</text></navLabel>
       <content src="document-1.xhtml#_1_0" />
+      <navPoint id="tH353005-1">
+        <navLabel><text>Title page</text></navLabel>
+        <content src="document-1.xhtml#H353005" />
+      </navPoint>
       <navPoint id="tH6627615-1">
         <navLabel><text>Pre-release v1.0</text></navLabel>
         <content src="document-1.xhtml#H6627615" />
@@ -52,7 +56,7 @@
           <content src="document-1.xhtml#H99013" />
         </navPoint>
         <navPoint id="tH691848-1">
-          <navLabel><text>How these textbooks were produced</text></navLabel>
+          <navLabel><text>How the textbook was produced</text></navLabel>
           <content src="document-1.xhtml#H691848" />
         </navPoint>
         <navPoint id="tH8101608-1">
@@ -591,6 +595,18 @@
           <navLabel><text>Crisis management</text></navLabel>
           <content src="document-16.xhtml#H8778968" />
         </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="t_17_0-17">
+      <navLabel><text>CRIbib Bibliography</text></navLabel>
+      <content src="document-17.xhtml#_17_0" />
+      <navPoint id="tH8291970-17">
+        <navLabel><text>Communications</text></navLabel>
+        <content src="document-17.xhtml#H8291970" />
+      </navPoint>
+      <navPoint id="tH6136407-17">
+        <navLabel><text>Toolbox</text></navLabel>
+        <content src="document-17.xhtml#H6136407" />
       </navPoint>
     </navPoint>
     <navPoint id="t2">
