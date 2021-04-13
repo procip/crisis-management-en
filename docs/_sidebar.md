@@ -7,7 +7,8 @@
   - [Working in teams](files/document-4.md)
   - [Communications](files/document-5.md)
   - [Scenarios – CBRN](files/document-6.md)
-  - [Toolbox](files/document-7.md)
+  - [B scenarios](files/document-7.md)
+  - [Toolbox](files/document-8.md)
 
   - [Annex - Abbreviations](files/document-8.md)
   - [Annex - Checklist for public health offices in crisis mode](files/document-9.md)

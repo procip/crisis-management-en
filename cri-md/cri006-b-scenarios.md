@@ -1,6 +1,6 @@
 CRI006: B scenarios
 
-## Abstract
+# B scenarios
 
 ## Various B scenarios
 

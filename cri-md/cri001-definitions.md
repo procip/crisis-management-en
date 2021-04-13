@@ -1,6 +1,6 @@
 CRI001: Definitions
 
-## Abstract
+# Definitions
 
 In infection control and population protection, many terms and abbreviations are
 used whose meaning is not always immediately evident. The Robert Koch Institute

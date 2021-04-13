@@ -1,6 +1,6 @@
 CRI003: Working in teams
 
-## Abstract
+# Working in teams
 
 ## Importance of a work/crisis team
 

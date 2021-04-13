@@ -1,6 +1,6 @@
 CRI004: Communications
 
-## Abstract
+# Communications
 
 Good communications are a key component of successful crisis management. Here we
 need to distinguish between (1) 'internal' communications within the

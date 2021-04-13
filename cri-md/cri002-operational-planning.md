@@ -1,6 +1,6 @@
 CRI002: Operational planning
 
-## Abstract
+# Operational planning
 
 This chapter presents the specifics of operational planning for public health
 authorities in case of biological emergencies, and introduces some principles.
