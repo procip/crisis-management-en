@@ -7,7 +7,7 @@
       Heidrun Böhm; Detlef Cwojdzinski; Ulrike Grote; Kalle Heitkötter; Christine Knauer; Ingrid Möller; Guido Pukropski; Julia Sasse; Tanja Schmidt; Ute Siering; Karlin Stark; Katrin Steul; Peter Tinnemann. Editors: Ute Teichert; Peter Tinnemann.
     </dc:creator>
     <dc:language>en-GB</dc:language>
-    <meta property="dcterms:modified">2021-04-13T15:55:00Z</meta>
+    <meta property="dcterms:modified">2021-04-13T20:12:09Z</meta>
     <dc:date>2021-04-13</dc:date>
     <dc:rights>Creative Commons Attribution ShareAlike 4.0 International (CC BY-SA 4.0)</dc:rights>
     <dc:publisher>Academy of Public Health Services in Düsseldorf</dc:publisher>
@@ -32,6 +32,7 @@
     <item id="t15" href="document-15.xhtml" media-type="application/xhtml+xml" />
     <item id="t16" href="document-16.xhtml" media-type="application/xhtml+xml" />
     <item id="t17" href="document-17.xhtml" media-type="application/xhtml+xml" />
+    <item id="t18" href="document-18.xhtml" media-type="application/xhtml+xml" />
     <item id="nav" href="document-nav.xhtml" properties="nav" media-type="application/xhtml+xml" />
     <item id="copyright" href="copyright.xhtml" media-type="application/xhtml+xml" />
     <item id="img0" href="images/4917fd29-2d93-4090-823e-0786d0016fc5.png" media-type="image/png" />
@@ -41,7 +42,8 @@
     <item id="img4" href="images/80d2b269-76f8-43ca-83a3-e341c4f08917.png" media-type="image/png" />
     <item id="img5" href="images/79e588fd-6cf6-494d-ab3b-92e25bbd1c8b.png" media-type="image/png" />
     <item id="img6" href="images/9383dba6-bfb1-4174-9c5d-226b568d1898.png" media-type="image/png" />
-    <item id="img7" href="images/54dc3868-8644-4775-8045-d9d5ac6a31d4.png" media-type="image/png" />
+    <item id="img7" href="images/0756f27c-38f1-4558-8d9c-34917f8a8830.png" media-type="image/png" />
+    <item id="img8" href="images/54dc3868-8644-4775-8045-d9d5ac6a31d4.png" media-type="image/png" />
     <item id="font0" href="css/media/NotoSerif-Regular.ttf" media-type="font/sfnt" />
     <item id="font1" href="css/media/NotoSerif-Italic.ttf" media-type="font/sfnt" />
     <item id="font2" href="css/media/NotoSerif-BoldItalic.ttf" media-type="font/sfnt" />
@@ -76,6 +78,7 @@
     <itemref idref="t15" linear="yes" />
     <itemref idref="t16" linear="yes" />
     <itemref idref="t17" linear="yes" />
+    <itemref idref="t18" linear="yes" />
     <itemref idref="copyright" linear="yes" />
     <itemref idref="nav" linear="no" />
   </spine>
