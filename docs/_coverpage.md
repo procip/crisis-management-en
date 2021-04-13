@@ -8,4 +8,4 @@
 
 - 2020
 
-[Read](files/chapter_0.md) [About](#über)
+[Read](files/chapter_0.md) [About](#About)
