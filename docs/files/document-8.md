@@ -1,5 +1,3 @@
-CRI010: Toolbox
-
 # Toolbox
 
 This toolbox describes in detail technical and logistical measures that may be
@@ -880,5 +878,3 @@ service](https://www.laga-online.de/documents/m_2_3_1517834373.pdf)
 Waste whose collection and disposal is not subject to any special requirements
 as far as infection prevention is concerned can be disposed of in accordance
 with AS 18 01 04.
-
-## Bibliography
