@@ -1,11 +1,11 @@
 ![cover](files/cover.png ':size=50%')
 
-> SORMAS Handbuch
+> Crisis Management
 
-# Surveillance Outbreak Response Management and Analysis System
+# Textbook for Public Health Services
 
-> Entwurf
+> Pre-release v1.0
 
-- 2021
+- 2020
 
-[Lesen Sie](files/chapter_0.md) [Über](#über)
+[Read](files/chapter_0.md) [About](#über)
