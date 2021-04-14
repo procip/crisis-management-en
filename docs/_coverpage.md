@@ -6,6 +6,6 @@
 
 > Pre-release v1.0
 
-- 2020
+- 2021
 
 [Read](files/chapter_0.md) [About](#About)

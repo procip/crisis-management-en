@@ -1,3 +1,3 @@
-# SORMAS
+# Head
 
-A link will be made back to SORMAS
+A link will be made back to Home
