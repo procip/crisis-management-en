@@ -1,5 +1,6 @@
+# Imprint
 
-# About
+Responsible for the content of the domain https://procip.github.io/crisis-management-en/:
 
 PROCIP - Plexus for Rapid Open Collaborative Information Publishing
 
@@ -11,10 +12,6 @@ Gustav-Heinemann-Ufer 56</br>
 Germany
 
 Managing Director Mr Simon Worthington simon@procip.co  
-
-## Imprint
-
-Responsible for the content of the domain https://procip.github.io/crisis-management-en/:
 
 TWH Linking Knowledge UG Handelsregister-Nummer: HRB 223966 B, trading as PROCIP - Plexus for Rapid Open Collaborative Information Publishing.
 
