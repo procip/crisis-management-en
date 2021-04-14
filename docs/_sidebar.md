@@ -29,4 +29,8 @@
 ISBN print and PDF: 978-1-906496-97-5<br />
 DOI: 10.5281/zenodo.4587727<br />
 Release: Pre-release v1.0<br />
-CC BY 4.0 The Authors 2020
+CC BY 4.0 The Authors 2020-21
+
+---
+
+[Imprint](files/imprint.md)
