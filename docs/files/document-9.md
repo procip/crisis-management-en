@@ -1,5 +1,3 @@
-CRI11Annex - Abbreviations
-
 # Abbreviations
 
 **ABAS** Committee on Biological Agents at the Federal Ministry of Labour and
@@ -52,5 +50,3 @@ diseases
 **VHF** Viral Haemorrhagic Fever
 
 **PPE** Personal Protective Equipment
-
-## Bibliography
