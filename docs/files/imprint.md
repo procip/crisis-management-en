@@ -1,12 +1,14 @@
+
 # About
 
 PROCIP - Plexus for Rapid Open Collaborative Information Publishing
 
-Mr Simon Worthington
-PROCIP
-TWH Linking Knowledge UG  
-Gustav-Heinemann-Ufer 56  
-50968 Köln
+Mr Simon Worthington</br>
+PROCIP</br>
+TWH Linking Knowledge UG</br>  
+Gustav-Heinemann-Ufer 56</br>  
+50968 Köln</br>
+Germany
 
 Managing Director Mr Simon Worthington simon@procip.co  
 
