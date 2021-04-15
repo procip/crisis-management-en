@@ -702,7 +702,7 @@ are:
 
 ![](media/dbf3f66fe90acba693162d5e8382246e.png)
 
-Figure 1: Classification of specimen material by packing regulation (source:
+Figure 9: Classification of specimen material by packing regulation (source:
 RKI)
 
 ### Emergency transport

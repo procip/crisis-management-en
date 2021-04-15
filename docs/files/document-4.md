@@ -44,7 +44,7 @@ districts and independent cities.
 
 ![](media/c2ec3bf0ee346eda3ae5134b759b0c1e.png)
 
-Figure 1: Components of management
+Figure 3: Components of management
 
 ## The overall political responsibility component
 
@@ -94,9 +94,7 @@ structure.
 
 ![](media/254fb0322fcdeddf5eb9860c11616a44.png)
 
-Figure 2:  Structure of a management team
-
-**Figure 4: Structure of a management team**
+Figure 4:  Structure of a management team
 
 In general, the following staff functions (S) should be established in both
 teams:
@@ -163,9 +161,7 @@ an overview of the composition of an administrative team:
 
 ![](media/294f80e3c02e1165b191229c7c2aeeca.png)
 
-Figure 3: Structure of an administrative team
-
-**Figure 5: Structure of an administrative team**
+Figure 5: Structure of an administrative team
 
 The 'team leader' is responsible for leading and coordinating the administrative
 team. This individual takes decisions on measures to be introduced, defines
@@ -218,9 +214,7 @@ crises occur:
 
 ![](media/7fdb35d57389468083f98ab902de2a58.png)
 
-Figure 4: The teams
-
-**Figure 6: The teams**
+Figure 6: The teams
 
 ## The crisis team in the public health office
 
@@ -283,9 +277,7 @@ necessary assessment of the situation and adoption of resolutions.
 
 ![](media/d72f3a6c594dc26c30dea1db0aa2f69c.png)
 
-Figure 5: How the crisis team works
-
-**Figure 7: How the crisis team works**
+Figure 7: How the crisis team works
 
 ## Functions and tasks in the crisis team
 

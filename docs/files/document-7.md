@@ -64,9 +64,7 @@ Health and Social Services – graphic modified in scenarios 5 and 6).
 
 ![](media/3e864803c291a50ea926df4b4d29f492.png)
 
-Figure 1: Overview of different scenarios
-
-**Figure 8: Overview of different scenarios**
+Figure 8: Overview of different scenarios
 
 To assess the risk it is also necessary to define the objective that can be
 achieved in the respective situation. At the beginning of an epidemic, for
